@@ -1,4 +1,4 @@
-module github.com/digitalocean/go-libvirt
+module github.com/zhiyin2021/go-libvirt
 
 go 1.21
 toolchain go1.22.5

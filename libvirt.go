@@ -29,11 +29,11 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/digitalocean/go-libvirt/internal/constants"
-	"github.com/digitalocean/go-libvirt/internal/event"
-	xdr "github.com/digitalocean/go-libvirt/internal/go-xdr/xdr2"
-	"github.com/digitalocean/go-libvirt/socket"
-	"github.com/digitalocean/go-libvirt/socket/dialers"
+	"github.com/zhiyin2021/go-libvirt/internal/constants"
+	"github.com/zhiyin2021/go-libvirt/internal/event"
+	xdr "github.com/zhiyin2021/go-libvirt/internal/go-xdr/xdr2"
+	"github.com/zhiyin2021/go-libvirt/socket"
+	"github.com/zhiyin2021/go-libvirt/socket/dialers"
 )
 
 // ErrEventsNotSupported is returned by Events() if event streams

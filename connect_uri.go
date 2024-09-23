@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/digitalocean/go-libvirt/socket"
-	"github.com/digitalocean/go-libvirt/socket/dialers"
+	"github.com/zhiyin2021/go-libvirt/socket"
+	"github.com/zhiyin2021/go-libvirt/socket/dialers"
 )
 
 // ConnectToURI returns a new, connected client instance using the appropriate

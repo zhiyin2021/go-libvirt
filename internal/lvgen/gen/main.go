@@ -20,7 +20,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/digitalocean/go-libvirt/internal/lvgen"
+	"github.com/zhiyin2021/go-libvirt/internal/lvgen"
 )
 
 var protoPaths = [...]string{
